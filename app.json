@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "calculator",
+    "slug": "calculator",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png",
+      "serviceWorker": {
+        "mode": "production"
+      }
+    }
+  }
+}
+
