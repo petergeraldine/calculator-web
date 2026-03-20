@@ -5,7 +5,7 @@
     "orientation": "portrait",
     "platforms": ["ios", "android", "web"],
     "web": {
-      "bundler": "metro",
+      "bundler": "webpack",
       "favicon": "./assets/favicon.png",
       "serviceWorker": {
         "mode": "production"
